@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
  </p>
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/www.devkcj.com/)](https:/www.devkcj.com/)
+  <a href="https:/www.devkcj.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=GitHub&logoColor=white&link=https:/www.devkcj.com"/></a>&nbsp
 <!--
 **KwonCheulJin/KwonCheulJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
