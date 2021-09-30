@@ -2,9 +2,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
  
- <h2 align=center>
-  💻 Tech Stack 🛠
- </h2>
+ <h3 align=center>💻 Tech Stack 🛠</h3>
 
  <p align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
@@ -16,9 +14,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
  </p>
   
- <h2 align=center>
-   About ME 🧗🏻‍♀️
- </h2>
+ <h3 align=center>About ME 🧗🏻‍♀️</h3>
+ 
  <p align=center>
   <a href="https:/www.devkcj.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=GitHub&logoColor=white&link=https:/www.devkcj.com"/></a>&nbsp
  <a href="https:/www.devkcj.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=chkftm12@gmail.com"/></a>&nbsp
