@@ -21,6 +21,7 @@
  </h2>
  <p align=center>
   <a href="https:/www.devkcj.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=GitHub&logoColor=white&link=https:/www.devkcj.com"/></a>&nbsp
+ <a href="https:/www.devkcj.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=chkftm12@gmail.com"/></a>&nbsp
   </p>
 <!--
 **KwonCheulJin/KwonCheulJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
