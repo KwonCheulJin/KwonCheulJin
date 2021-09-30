@@ -1,7 +1,7 @@
 
 <div align="center" style="text-align:center">
 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,100:a82da8&height=150&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=90&fontColor=d6ace6&animation=fadeIn&descAlignY=70)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,100:a82da8&height=180&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=80&fontColor=d6ace6&animation=fadeIn&descAlignY=70)
  
 </div>
 
