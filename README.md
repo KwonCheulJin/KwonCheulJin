@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=90&animation=fadeIn&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=90&animation=fadeIn&descAlignY=60)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
  
