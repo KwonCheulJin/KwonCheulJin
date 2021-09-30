@@ -27,9 +27,9 @@
  
  <p align=center>
  
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=GitHub&link=https://www.devkcj.com)](https://www.devkcj.com)
+ [![Tech Blog Badge](http://img.shields.io/badge/Tech Blog-000000?style=flat&logo=GitHub&link=https://www.devkcj.com)](https://www.devkcj.com)
  
- [![Gmail Badge](http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&link=https://chkftm12@gmail.com)](https://chkftm12@gmail.com)
+ [![Gmail Badge](http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&link=https://chkftm12@gmail.com)](https://chkftm12@gmail.com)
  
 </p>
 <!--
