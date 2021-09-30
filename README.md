@@ -3,7 +3,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin)](https://github.com/anuraghazra/github-readme-stats)
  <p align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  </p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+ </p>
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.devkcj.com/)](https://www.devkcj.com/)
 <!--
 **KwonCheulJin/KwonCheulJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
