@@ -26,10 +26,8 @@
  <h3 align=center>About ME 🧗🏻‍♀️</h3>
  
  <p align=center>
- 
- <a href="https://www.devkcj.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.devkcj.com/"/></a> 
- <a href="mailto:chkftm12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chkftm12@gmail.com"/></a>
- 
+ <a href="https://www.devkcj.com/"><img src="https://img.shields.io/badge/My tech blog-000000?style=plastic&logo=GitHub &logoColor=white&link=https://www.devkcj.com/"/></a> 
+ <a href="mailto:chkftm12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:chkftm12@gmail.com"/></a>
 </p>
 <!--
 **KwonCheulJin/KwonCheulJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
