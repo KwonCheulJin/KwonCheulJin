@@ -1,10 +1,14 @@
 
 <header align="center" style="text-align:center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,100:a82da8&height=250&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=90&fontColor=d6ace6&animation=fadeIn&descAlignY=70)
- </header>
+
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,100:a82da8&height=250&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=90&fontColor=d6ace6&animation=fadeIn&descAlignY=70)
+ 
+</header>
 
 <div align="center" style="text-align:center">
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
+
 </div>
  
  <h3 align=center>💻 Tech Stack 🛠</h3>
