@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
  </p>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.devkcj.com/)](https://www.devkcj.com/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:/www.devkcj.com/)](https:/www.devkcj.com/)
 <!--
 **KwonCheulJin/KwonCheulJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
