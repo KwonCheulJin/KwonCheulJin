@@ -8,7 +8,6 @@
 <div align="center" style="text-align:center">
  
  ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
- ![Charles's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonCheulJin&layout=compact&theme=dracula)
 
 </div>
  
