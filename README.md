@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
  </p>
   
- <h3 align=center>About ME 🧗🏻‍♀️</h3>
+ <h3 align=center>About ME 🧗🏻‍♀️ </h3>
  
  <p align=center>
  <a href="https://www.devkcj.com/"><img src="https://img.shields.io/badge/My tech blog-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://www.devkcj.com/"/></a> 
  <a href="mailto:chkftm12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chkftm12@gmail.com"/></a>
 </p>
+ 
