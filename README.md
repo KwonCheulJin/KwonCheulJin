@@ -25,6 +25,12 @@
    <img src="https://img.shields.io:/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp
   </div>
+  <h4 align=center>Test💻</h4>
+  <div align=center>
+   <img src="https://img.shields.io:/badge/Jest-C21325?style=plastic&logo=Jest&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/TestingLibrary-E33332?style=plastic&logo=TestingLibrary&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/Codeceptjs-F6E05E?style=plastic&logo=Codeceptjs&logoColor=white"/></a>&nbsp
+  </div>
   <h4 align=center>BackEnd🧠</h4>
   <div align=center>
    <img src="https://img.shields.io:/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
