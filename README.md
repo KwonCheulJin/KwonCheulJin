@@ -25,6 +25,8 @@
    <img src="https://img.shields.io:/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/Tailwind CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/styled compoents-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/></a>&nbsp
   </div>
   <h4 align=center>Test💻</h4>
   <div align=center>
@@ -46,15 +48,8 @@
    <img src="https://img.shields.io:/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   </div>
-  <h4 align=center>DevOps🧰</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/Netlify-00C7B7?style=plastic&logo=Netlify&logoColor=white"/></a>&nbsp
-  </div>
   <h4 align=center>IDE📇</h4>
   <div align=center>
-   <img src="https://img.shields.io:/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/IntelliJIDEA-000000?style=plastic&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/EclipseIDE-2C2255?style=plastic&logo=EclipseIDE&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/VisualStudioCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
   </div>
   
