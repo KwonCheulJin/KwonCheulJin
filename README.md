@@ -21,6 +21,7 @@
   <h4 align=center>FrontEnd👀</h4>
   <div align=center>
    <img src="https://img.shields.io:/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -30,9 +31,11 @@
    <img src="https://img.shields.io:/badge/Jest-C21325?style=plastic&logo=Jest&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/TestingLibrary-E33332?style=plastic&logo=TestingLibrary&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/Codeceptjs-F6E05E?style=plastic&logo=Codeceptjs&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io:/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white"/></a>&nbsp
   </div>
   <h4 align=center>BackEnd🧠</h4>
   <div align=center>
+   <img src="https://img.shields.io:/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io:/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io:/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/></a>&nbsp
