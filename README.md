@@ -35,19 +35,6 @@
    <img src="https://img.shields.io:/badge/Codeceptjs-F6E05E?style=plastic&logo=Codeceptjs&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io:/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white"/></a>&nbsp
   </div>
-  <h4 align=center>BackEnd🧠</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io:/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io:/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  </div>
-  <h4 align=center>DataBase🗄</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>&nbsp
-  </div>
   <h4 align=center>IDE📇</h4>
   <div align=center>
    <img src="https://img.shields.io:/badge/VisualStudioCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
