@@ -7,12 +7,12 @@
 
 <div align="center" style="text-align:center">
  
- ![Charles's GitHub stats](https://github-readme-stats-jcczy7sl6-kwoncheuljin.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
+ ![Charles's GitHub stats](https://github-readme-stats-murex-omega-23.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)
 
 </div>
 <div align="center" style="text-align:center">
 
- [![Top Langs](https://github-readme-stats-jcczy7sl6-kwoncheuljin.vercel.app/api/top-langs/?username=KwonCheulJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-murex-omega-23.vercel.app/api/top-langs/?username=KwonCheulJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
