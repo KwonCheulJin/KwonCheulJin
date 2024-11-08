@@ -5,45 +5,44 @@
  
 </div>
 
-<div align="center" style="text-align:center">
- 
- [![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonCheulJin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KwonCheulJin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwonCheulJin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="center" style="text-align:center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonCheulJin&layout=compact)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
- 
- <h3 align=center>💻 Tech Stack 🛠</h3>
- 
-  <h4 align=center>FrontEnd👀</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/Tailwind CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/styled compoents-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/></a>&nbsp
-  </div>
-  <h4 align=center>Test💻</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/Jest-C21325?style=plastic&logo=Jest&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/TestingLibrary-E33332?style=plastic&logo=TestingLibrary&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/Codeceptjs-F6E05E?style=plastic&logo=Codeceptjs&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io:/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white"/></a>&nbsp
-  </div>
-  <h4 align=center>IDE📇</h4>
-  <div align=center>
-   <img src="https://img.shields.io:/badge/VisualStudioCode-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white"/></a>&nbsp
-  </div>
-  
- <h3 align=center>About ME 🧗🏻‍♀️ </h3>
- 
- <p align=center>
- <a href="https://jin-blog-blush.vercel.app/"><img src="https://img.shields.io/badge/My tech blog-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://jin-blog-blush.vercel.app/"/></a> 
- <a href="mailto:chkftm12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chkftm12@gmail.com"/></a>
-</p>
- 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KwonCheulJin/KwonCheulJin/output/snake.svg" alt="Snake animation" />
+
+###
