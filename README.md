@@ -4,16 +4,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b388ff,100:a82da8&height=180&section=header&text=Charles&desc=Welcome%20in%20My%20GitHub&fontSize=80&fontColor=d6ace6&animation=fadeIn&descAlignY=70)
  
 </div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwonCheulJin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwonCheulJin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <br clear="both">
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
